@@ -1,4 +1,3 @@
-# YaelGliskin
 
 ### **<div align="center">Hi 👋, I'm Yael.</div>**  
 
