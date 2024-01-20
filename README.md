@@ -2,7 +2,7 @@
 
 ### **<div align="center">Hi 👋, I'm Yael.</div>**  
 
-<div align="center">👨🏻‍🎓 Bachelor of Science (B.Sc.) in Science Studies Emphasis on Computer Science.</div>  
+<div align="center">👨🏻‍🎓 B.Sc. in Science Studies Emphasis on Computer Science.</div>  
 
 <br/>  
 
