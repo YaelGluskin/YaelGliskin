@@ -35,5 +35,5 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaelGluskin&hide_border=true&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaelGluskin&hide_border=true&layout=compact&exclude_repo=covidcare-frontend,covidcare-api" align="center" />
 <br/>
